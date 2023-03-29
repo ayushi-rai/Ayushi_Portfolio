@@ -12,7 +12,7 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font:normal 500 15px/2px var(--roboto),sans-serif;
+    font:normal 500 15px/2px var(--roboto),cursive;
    font-weight: 500;
     text-transform: uppercase;
     padding: 1.7rem;
@@ -76,7 +76,7 @@
 
 .site-main .about-area .about-title h2 > span{
     display: block;
-    font: normal bold 49px/ 60px var(--roboto),sans-serif;
+    font: normal bold 49px/ 60px var(--roboto),cursive;
     letter-spacing: 21px;
 }
 
@@ -133,7 +133,7 @@
 
 
 .site-main .brand-area .experience-area .years-area .years{
-    font: normal bold 84px/40px var(--roboto),sans-serif;
+    font: normal bold 84px/40px var(--roboto),cursive;
     color: Black;
     z-index: 2;
 }
@@ -189,7 +189,7 @@
 }
 
 .site-main .subscribe-us-area .subscribe .subscribe-title h4{
-    font: normal 700 30px/ 30px var(--roboto),sans-serif;
+    font: normal 700 30px/ 30px var(--roboto),cursive;
     color: whitesmoke;
 }
 
@@ -228,7 +228,7 @@ footer.footer-area{
 }
 
 footer.footer-area .social h5{
-    font: normal 500 23px/ 30px var(--roboto),sans-serif;
+    font: normal 500 23px/ 30px var(--roboto),cursive;
 }
 
 footer.footer-area .social a > i{
